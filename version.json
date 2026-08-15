@@ -14,7 +14,7 @@
   },
   "ios": {
     "latestVersion": "1.0.5",
-    "latestBuild": 5,
+    "latestBuild": 6,
     "minimumBuild": 1,
     "forceUpdate": false,
     "downloadUrl": "https://apps.apple.com/",
