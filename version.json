@@ -1,0 +1,27 @@
+{
+  "appName": "Bộ gõ luyện chữ Việt",
+  "android": {
+    "latestVersion": "1.0.5",
+    "latestBuild": 5,
+    "minimumBuild": 1,
+    "forceUpdate": false,
+    "downloadUrl": "https://play.google.com/store/apps/details?id=vn.app4mobile.bogo_luyenchudep&hl=vi",
+    "releaseNotes": [
+      "Phiên bản đầu tiên.",
+      "Công cụ gõ font luyện chữ đẹp.",
+      "Hỗ trợ thiết kế tài liệu PDF."
+    ]
+  },
+  "ios": {
+    "latestVersion": "1.0.5",
+    "latestBuild": 5,
+    "minimumBuild": 1,
+    "forceUpdate": false,
+    "downloadUrl": "https://apps.apple.com/",
+    "releaseNotes": [
+      "Phiên bản đầu tiên.",
+      "Công cụ gõ font luyện chữ đẹp.",
+      "Hỗ trợ thiết kế tài liệu PDF."
+    ]
+  }
+}
