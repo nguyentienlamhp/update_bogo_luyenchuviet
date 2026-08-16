@@ -26,7 +26,7 @@ def generate_images_json(output_file='images.json'):
     image_files.sort()
 
     # Ghi file JSON vào cùng vị trí chạy script
-    output_path = os.path.join(base_dir, output_file)
+    output_path = os.path.join(base_dir,'images', output_file)
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(image_files, f, ensure_ascii=False, indent=2)
 
