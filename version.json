@@ -1,10 +1,10 @@
 {
   "appName": "Bộ gõ luyện chữ Việt",
   "android": {
-    "latestVersion": "1.1.0",
-    "latestBuild": 16,
+    "latestVersion": "1.5.0",
+    "latestBuild": 28,
     "minimumBuild": 1,
-    "forceUpdate": false,
+    "forceUpdate": true,
     "downloadUrl": "https://play.google.com/store/apps/details?id=vn.app4mobile.bogo_luyenchudep&hl=vi",
     "releaseNotes": [
       "Phiên bản đầu tiên.",
