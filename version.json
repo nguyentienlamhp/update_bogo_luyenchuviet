@@ -7,21 +7,17 @@
     "forceUpdate": true,
     "downloadUrl": "https://play.google.com/store/apps/details?id=vn.app4mobile.bogo_luyenchudep&hl=vi",
     "releaseNotes": [
-      "Phiên bản đầu tiên.",
-      "Công cụ gõ font luyện chữ đẹp.",
-      "Hỗ trợ thiết kế tài liệu PDF."
+      "Cập nhật lỗi hiệu năng"
     ]
   },
   "ios": {
-    "latestVersion": "1.1.5",
-    "latestBuild": 10,
+    "latestVersion": "1.5.0",
+    "latestBuild": 28,
     "minimumBuild": 1,
-    "forceUpdate": false,
-    "downloadUrl": "https://apps.apple.com/",
+    "forceUpdate": true,
+    "downloadUrl": "https://apps.apple.com/ar/app/b%E1%BB%99-g%C3%B5-luy%E1%BB%87n-ch%E1%BB%AF-vi%E1%BB%87t/id6801474879",
     "releaseNotes": [
-      "Phiên bản đầu tiên.",
-      "Công cụ gõ font luyện chữ đẹp.",
-      "Hỗ trợ thiết kế tài liệu PDF."
+      "Cập nhật lỗi hiệu năng"
     ]
   }
 }
