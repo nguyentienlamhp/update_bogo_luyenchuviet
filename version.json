@@ -1,20 +1,20 @@
 {
   "appName": "Bộ gõ luyện chữ Việt",
   "android": {
-    "latestVersion": "1.5.0",
-    "latestBuild": 28,
+    "latestVersion": "1.6.0",
+    "latestBuild": 29,
     "minimumBuild": 1,
-    "forceUpdate": false,
+    "forceUpdate": true,
     "downloadUrl": "https://play.google.com/store/apps/details?id=vn.app4mobile.bogo_luyenchudep&hl=vi",
     "releaseNotes": [
       "Cập nhật lỗi hiệu năng"
     ]
   },
   "ios": {
-    "latestVersion": "1.5.0",
-    "latestBuild": 28,
+    "latestVersion": "1.6.0",
+    "latestBuild": 29,
     "minimumBuild": 1,
-    "forceUpdate": false,
+    "forceUpdate": true,
     "downloadUrl": "https://apps.apple.com/vn/app/bộ-gõ-luyện-chữ-việt/id6801474879?l=vi",
     "releaseNotes": [
       "Cập nhật lỗi hiệu năng"
